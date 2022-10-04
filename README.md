@@ -1,10 +1,15 @@
 ### Data Visualization: criação de gráficos com o Matplotlib
     Curso da formação Data Science, by Alura o.O
 
-#### Pontos de destaque da AULA 05:
+#### Sumário das aulas:
 
 ###
-    - Adicionar anotações matemáticas;
-    - Traçar linhas verticais;
-    - Salvar figuras;
-    - Combinar mais de uma imagem em apenas uma.
+    - Primeiras visualizações;
+###
+    - Customizando nossas visualizações;
+###
+    - Anotações e diversos gráficos;
+###
+    - Visualizando dados diferentes;
+###
+    - Customizando Histogramas.
