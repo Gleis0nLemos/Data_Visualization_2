@@ -1,18 +1,20 @@
 ### Data Visualization: criação de gráficos com o Matplotlib
     Curso da formação Data Science, by Alura o.O
 
-#### Vists na AULA 03:
+#### Tópicos da AULA 04:
 
 ###
-    - Adicionar linhas de restrição;
-    - Fazer anotações localizadas;
-    - Modificar localização de anotações;
-    - Adicionar setas;
-    - Desenhar um gráfico de barras;
-    - Trocar o nome dos "ticks" de um eixo;
-    - Colorir um gráfico de barras;
-    - Adicionar uma borda ao gráfico de barras;
-    - Desenhar um gráfico de pizza;
-    - Adicionar porcentagens ao gráfico de pizza;
-    - Explodir algumas fatias do gráfico de pizza;
-    - Adicionar sombra ao gráfico de pizza.
+    - Fazer um gráfico de dispersão;
+    - Mudar o tamanho dos ticks nos eixos;
+    - Aplicar filtros em conjuntos de dados;
+    - Trocar cores em um gráfico de dispersão;
+    - Adicionar marcadores em um gráfico de dispersão;
+    - Aumentar o tamanho dos marcadores;
+    - Fazer um gráfico de caixas univariável;
+    - Fazer um gráfico de caixas multivariável;
+    - Colorir um gráfico de caixa;
+    - Trocar marcadores de um gráfico de caixa;
+    - Fazer um histograma;
+    - Mudar o número de colunas de um histograma;
+    - Trocar a orientação de um histograma;
+    - Normalizar um histograma.
